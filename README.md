@@ -10,6 +10,7 @@ I am a student currently at the University of North Alabama and I am majoring in
 
 * 🌍  I'm based in Athens, AL
 * ✉️  You can contact me at [cjehlendt@gmail.com](mailto:cjehlendt@gmail.com)
+* Here is a link to a <a href="https://github.com/CorbinEhlendt/dev-easy"> previous project </a>
 
 ### Skills
 
