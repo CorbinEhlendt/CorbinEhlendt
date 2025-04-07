@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Student
 ----------
 
+<img src="https://i.pinimg.com/474x/df/65/1f/df651f63edcd7cfc70533e89b803184c.jpg">
+
 I am a student currently at the University of North Alabama and I am majoring in Information Technology with a concentration in Cyber Security. I am set to graduate fall of 2026.
 
 * 🌍  I'm based in Athens, AL
